@@ -1,0 +1,14 @@
+{
+  "name": "pi-elapsed",
+  "version": "0.1.0",
+  "description": "Times each agent turn — active working time vs. time spent waiting on you — pausing wherever pi blocks on user input (gate dialogs, select/confirm prompts).",
+  "main": "index.ts",
+  "type": "module",
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./index.ts"]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}

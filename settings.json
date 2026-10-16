@@ -1,0 +1,13 @@
+{
+  "packages": [
+    "npm:pi-mcp-adapter",
+    "npm:@beyona/pi-zai-usage",
+    "npm:@juicesharp/rpiv-todo",
+    "npm:pi-codex",
+    "npm:pi-mcp-adapter",
+    "npm:pi-web-access",
+    "npm:alps-pi",
+    "npm:pi-blackhole",
+    "npm:pi-goal-x"
+  ]
+}
